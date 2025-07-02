@@ -1,4 +1,4 @@
-# EmoSuggest: Mood-Based Activity Suggestion 
+# EmotiGuide: Mood-Based Activity Suggestion 
 
 EmotiGuide is an innovative project aimed at suggesting activities based on the user's mood, utilizing image emotion detection techniques. By leveraging machine learning and deep learning models, EmotiGuide can analyze images to determine the user's emotional state and recommend relevant activities tailored to their mood.
 ## Features
